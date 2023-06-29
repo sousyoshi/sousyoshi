@@ -1,4 +1,4 @@
-### Joshua Johnson Full Stack Software Engineer
+### Joshua Johnson 
 I am full stack software engineer who is passionate about learning as much as I can and working on smart, diverse team. 
 <!--
 **sousyoshi/sousyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
